@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\usporediXMLsaLINQ\usporediXMLsaLINQ\bin\Debug\usporediXMLsaLINQ.exe.config
+C:\Users\ucenik\source\repos\usporediXMLsaLINQ\usporediXMLsaLINQ\bin\Debug\usporediXMLsaLINQ.exe
+C:\Users\ucenik\source\repos\usporediXMLsaLINQ\usporediXMLsaLINQ\bin\Debug\usporediXMLsaLINQ.pdb
+C:\Users\ucenik\source\repos\usporediXMLsaLINQ\usporediXMLsaLINQ\obj\Debug\usporediXMLsaLINQ.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\usporediXMLsaLINQ\usporediXMLsaLINQ\obj\Debug\usporediXMLsaLINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\usporediXMLsaLINQ\usporediXMLsaLINQ\obj\Debug\usporediXMLsaLINQ.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\usporediXMLsaLINQ\usporediXMLsaLINQ\obj\Debug\usporediXMLsaLINQ.exe
+C:\Users\ucenik\source\repos\usporediXMLsaLINQ\usporediXMLsaLINQ\obj\Debug\usporediXMLsaLINQ.pdb
